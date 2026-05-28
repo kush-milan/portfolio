@@ -30,7 +30,7 @@ export const SOCIAL_LINKS = {
   instagram: "https://www.instagram.com/_kush.milan/",
   blog: "", // add your blog URL here or leave blank to hide
   email: "milankushwaha7644@gmail.com",
-  // resume: "https://your-resume-drive-link.com",
+  resume: "", // add your resume link here
 };
 
 // Contact form endpoint (update with your own Formspree endpoint)

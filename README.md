@@ -1,9 +1,5 @@
 # 🚀 My Developer Portfolio
 
-This portfolio was created using the [Neo Portfolio CLI](https://github.com/decodewithdeepak/create-neo-portfolio), built and maintained by [Deepak Modi](https://decodewithdeepak.vercel.app).
-
----
-
 ## Get Started
 
 - Edit your details in `src/components/constants/data.ts` (name, social links, projects, etc.)
